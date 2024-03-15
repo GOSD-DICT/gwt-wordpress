@@ -1,4 +1,4 @@
-# Government Web Template (GWT) for WordPress
+t# Government Web Template (GWT) for WordPress
 - The GWTD is an initiative of the Philippine Government to institutionalize a corporate online identity
 for all government websites through a standard design, navigation, and content. Included in the GWTD 
 Guidelines are the details on the content, structure, and design of government websites, e.g. what are
