@@ -23,7 +23,7 @@ to include, etc.
  - [fixed]       Agency logo, Agency name | Agency tagline size
  - [temporary]   Disabled input field on Search shortcut key
  - [update]      PHP compatibility up to PHP 8.1
-
+  
 ## Compatibility Specification
 - PHP 7.4 - 8.1
 - WordPress version 6.3 and up
