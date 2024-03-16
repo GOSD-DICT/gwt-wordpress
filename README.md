@@ -4,7 +4,7 @@ for all government websites through a standard design, navigation, and content. 
 Guidelines are the details on the content, structure, and design of government websites, e.g. what are
 the sections to be included, what are the required measurements, what are the other possible features 
 to include, etc. 
-
+ 
 ## What's New?
 **27.0.0** <sub>*Major Release*</sub>
 
