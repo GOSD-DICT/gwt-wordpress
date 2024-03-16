@@ -29,7 +29,7 @@ to include, etc.
 - WordPress version 6.3 and up
 - WAMP Server version 3.2.3 - 3.3.2
 - XAMPP Server version 8.0.3
-
+ 
 > [!IMPORTANT]
 > - **Use only the** [Approved Plugins](https://bit.ly/List-of-approved-plugins) by the **DICT-GWHS Team** to avoid any possible errors and vulnerability
 > - **For custom CSS,** You may add your CSS to the style.css file or to the additional CSS found in Customize Tab on your WordPress website. However, **IT SHOULDN'T ALTER** the default appearance of the GWT.
