@@ -4,7 +4,7 @@ for all government websites through a standard design, navigation, and content. 
 Guidelines are the details on the content, structure, and design of government websites, e.g. what are
 the sections to be included, what are the required measurements, what are the other possible features 
 to include, etc. 
- 
+
 ## What's New?
 **27.0.0** <sub>*Major Release*</sub>
 
@@ -23,13 +23,13 @@ to include, etc.
  - [fixed]       Agency logo, Agency name | Agency tagline size
  - [temporary]   Disabled input field on Search shortcut key
  - [update]      PHP compatibility up to PHP 8.1
-  
+
 ## Compatibility Specification
 - PHP 7.4 - 8.1
 - WordPress version 6.3 and up
 - WAMP Server version 3.2.3 - 3.3.2
 - XAMPP Server version 8.0.3
- 
+
 > [!IMPORTANT]
 > - **Use only the** [Approved Plugins](https://bit.ly/List-of-approved-plugins) by the **DICT-GWHS Team** to avoid any possible errors and vulnerability
 > - **For custom CSS,** You may add your CSS to the style.css file or to the additional CSS found in Customize Tab on your WordPress website. However, **IT SHOULDN'T ALTER** the default appearance of the GWT.
@@ -37,7 +37,7 @@ to include, etc.
 
 > [!CAUTION]
 > - **DO NOT** customize or alter the base code of the GWT. 
- 
+
 <br>
 
 ## Understanding Releases
