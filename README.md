@@ -33,7 +33,7 @@ to include, etc.
 > [!IMPORTANT]
 > - **Use only the** [Approved Plugins](https://bit.ly/List-of-approved-plugins) by the **DICT-GWHS Team** to avoid any possible errors and vulnerability
 > - **For custom CSS,** You may add your CSS to the style.css file or to the additional CSS found in Customize Tab on your WordPress website. However, **IT SHOULDN'T ALTER** the default appearance of the GWT.
-
+ 
 
 > [!CAUTION]
 > - **DO NOT** customize or alter the base code of the GWT. 
