@@ -146,8 +146,7 @@ For a list of known issues and RFEs, check the [issue tracking system](https://g
 #### Compatibility Specification
 - PHP 7.4
 - WordPress version 6.2 and up
-- WAMP Server (not compatible)
-- XAMPP Server version 8.0.3 (not compatible)
+
 <br>
 <hr>
 
