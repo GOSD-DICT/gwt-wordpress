@@ -146,7 +146,6 @@ For a list of known issues and RFEs, check the [issue tracking system](https://g
 #### Compatibility Specification
 - PHP 7.4
 - WordPress version 6.2 and up
-
 <br>
 <hr>
 
