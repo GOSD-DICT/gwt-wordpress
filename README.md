@@ -142,7 +142,12 @@ For a list of known issues and RFEs, check the [issue tracking system](https://g
 - [enhanced] Full width template functions
 - [enhanced] Text decoration for standard footer links
 - [enhanced] Slider get functions
-
+  
+### Compatibility Specification
+- PHP 7.4 - 8.1
+- WordPress version 6.3 and up
+- WAMP Server version 3.2.3 - 3.3.2
+- XAMPP Server version 8.0.3
 <br>
 <hr>
 
